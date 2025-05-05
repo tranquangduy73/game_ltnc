@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1743846137 source:c:\ltnc\game\game_ltnc\main.cpp
+	"game.h"
+	"audio.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1743847601 source:c:\ltnc\game\game_ltnc\game.cpp
+	"game.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	"audio.h"
+
+1743354796 c:\ltnc\game\game_ltnc\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+
+1743261729 c:\ltnc\game\game_ltnc\player.h
+	<SDL.h>
+
+1743261729 c:\ltnc\game\game_ltnc\platform.h
+	<SDL.h>
+
+1743261729 source:c:\ltnc\game\game_ltnc\platform.cpp
+	"Platform.h"
+
+1743261685 source:c:\ltnc\game\game_ltnc\player.cpp
+	"Player.h"
+
+1743261434 c:\ltnc\game\game_ltnc\bullet.h
+	<SDL.h>
+
+1743261729 source:c:\ltnc\game\game_ltnc\bullet.cpp
+
+1743261729 source:c:\ltnc\game\game_ltnc\enemy.cpp
+
+1743261434 c:\ltnc\game\game_ltnc\enemy.h
+	<SDL.h>
+
+1743261729 source:c:\ltnc\game\game_ltnc\utils.cpp
+
+1743436359 source:c:\ltnc\game\game_ltnc\audio.cpp
+	"audio.h"
+	<iostream>
+
+1743436359 c:\ltnc\game\game_ltnc\audio.h
+	<SDL_mixer.h>
+
+1743436360 source:c:\users\legion\documents\zalo received files\game_ltnc (2)\game_ltnc\audio.cpp
+	"audio.h"
+	<iostream>
+
+1746414962 c:\users\legion\documents\zalo received files\game_ltnc (2)\game_ltnc\audio.h
+	<SDL_mixer.h>
+
+1743847602 source:c:\users\legion\documents\zalo received files\game_ltnc (2)\game_ltnc\game.cpp
+	"game.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	"audio.h"
+
+1743354798 c:\users\legion\documents\zalo received files\game_ltnc (2)\game_ltnc\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+
+1743261730 source:c:\users\legion\documents\zalo received files\game_ltnc (2)\game_ltnc\platform.cpp
+	"Platform.h"
+
+1743261730 c:\users\legion\documents\zalo received files\game_ltnc (2)\game_ltnc\platform.h
+	<SDL.h>
+
+1743261686 source:c:\users\legion\documents\zalo received files\game_ltnc (2)\game_ltnc\player.cpp
+	"Player.h"
+
+1743261730 c:\users\legion\documents\zalo received files\game_ltnc (2)\game_ltnc\player.h
+	<SDL.h>
+
+1746346466 source:c:\users\legion\documents\zalo received files\game_ltnc (2)\game_ltnc\main.cpp
+	"game.h"
+	"audio.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1743436360 source:d:\game_ltnc\audio.cpp
+	"audio.h"
+	<iostream>
+
+1746414962 d:\game_ltnc\audio.h
+	<SDL_mixer.h>
+
+1743847602 source:d:\game_ltnc\game.cpp
+	"game.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	"audio.h"
+
+1743354798 d:\game_ltnc\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+
+1746346466 source:d:\game_ltnc\main.cpp
+	"game.h"
+	"audio.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1743261730 source:d:\game_ltnc\platform.cpp
+	"Platform.h"
+
+1743261730 d:\game_ltnc\platform.h
+	<SDL.h>
+
+1743261686 source:d:\game_ltnc\player.cpp
+	"Player.h"
+
+1743261730 d:\game_ltnc\player.h
+	<SDL.h>
+
